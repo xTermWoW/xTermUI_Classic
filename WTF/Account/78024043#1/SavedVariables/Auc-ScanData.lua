@@ -1,0 +1,147 @@
+
+AucScanData = {
+	["Version"] = 1.4,
+	["scans"] = {
+		["Kirtonos"] = {
+			["scanstats"] = {
+				{
+					["serverKey"] = "Kirtonos",
+					["source"] = "scan",
+					["matchedCount"] = 0,
+					["sameCount"] = 0,
+					["expiredDeleteCount"] = 0,
+					["missedCount"] = 0,
+					["query"] = {
+						["qryinfo"] = {
+							["serverKey"] = "Kirtonos",
+							["id"] = 1,
+							["sig"] = "######4.1.3",
+							["scanSize"] = "Partial",
+							["page"] = 0,
+							["finished"] = true,
+						},
+						["pageIncomplete"] = false,
+						["filterData"] = {
+							{
+								["subClassID"] = 1,
+								["inventoryType"] = 3,
+								["classID"] = 4,
+							}, -- [1]
+						},
+					},
+					["startTime"] = 1569200895,
+					["updateCount"] = 0,
+					["oldCount"] = 153,
+					["earlyDeleteCount"] = 0,
+					["started"] = 24788.86,
+					["endTime"] = 1569200939,
+					["filteredCount"] = 8,
+					["wasIncomplete"] = true,
+					["currentCount"] = 203,
+					["ended"] = 24832.136,
+					["newCount"] = 42,
+					["paused"] = 0,
+					["storeTime"] = 0.0100000000020373,
+					["wasGetAll"] = false,
+					["scanCount"] = 50,
+					["elapsed"] = 43.2760000000017,
+					["scanStoreTime"] = 43.2050000000018,
+				}, -- [1]
+				{
+					["serverKey"] = "Kirtonos",
+					["source"] = "scan",
+					["matchedCount"] = 0,
+					["sameCount"] = 0,
+					["expiredDeleteCount"] = 182,
+					["missedCount"] = 0,
+					["query"] = {
+						["qryinfo"] = {
+							["serverKey"] = "Kirtonos",
+							["id"] = 0,
+							["sig"] = "######4.1.1",
+							["scanSize"] = "Partial",
+							["page"] = 0,
+							["finished"] = true,
+						},
+						["pageIncomplete"] = false,
+						["filterData"] = {
+							{
+								["subClassID"] = 1,
+								["inventoryType"] = 1,
+								["classID"] = 4,
+							}, -- [1]
+						},
+					},
+					["startTime"] = 1569200822,
+					["updateCount"] = 0,
+					["oldCount"] = 286,
+					["earlyDeleteCount"] = 0,
+					["started"] = 24715.461,
+					["endTime"] = 1569200895,
+					["filteredCount"] = 0,
+					["wasIncomplete"] = true,
+					["currentCount"] = 153,
+					["ended"] = 24788.921,
+					["newCount"] = 50,
+					["paused"] = 0,
+					["storeTime"] = 0.0100000000020373,
+					["wasGetAll"] = false,
+					["scanCount"] = 50,
+					["elapsed"] = 73.4600000000028,
+					["scanStoreTime"] = 73.3990000000013,
+				}, -- [2]
+				[0] = {
+					["serverKey"] = "Kirtonos",
+					["source"] = "scan",
+					["matchedCount"] = 50,
+					["sameCount"] = 0,
+					["expiredDeleteCount"] = 194,
+					["missedCount"] = 0,
+					["query"] = {
+						["qryinfo"] = {
+							["finished"] = true,
+							["serverKey"] = "Kirtonos",
+							["unresolved"] = 0,
+							["id"] = 0,
+							["scanSize"] = "Partial",
+							["page"] = 1,
+							["sig"] = "######4.1.1",
+						},
+						["pageIncomplete"] = false,
+						["filterData"] = {
+							{
+								["subClassID"] = 1,
+								["inventoryType"] = 1,
+								["classID"] = 4,
+							}, -- [1]
+						},
+					},
+					["startTime"] = 1569704905,
+					["updateCount"] = 0,
+					["oldCount"] = 203,
+					["scanStoreTime"] = 67.9279999999999,
+					["started"] = 18058.933,
+					["endTime"] = 1569704974,
+					["filteredCount"] = 2,
+					["elapsed"] = 68.007999999998,
+					["currentCount"] = 100,
+					["scanCount"] = 100,
+					["newCount"] = 98,
+					["paused"] = 0,
+					["storeTime"] = 0.00999999999839929,
+					["wasGetAll"] = false,
+					["ended"] = 18126.941,
+					["wasIncomplete"] = true,
+					["earlyDeleteCount"] = 0,
+				},
+				["ImageUpdated"] = 1569704974,
+				["LastFullScan"] = 1569133245,
+				["LastScan"] = 1569704974,
+			},
+			["image"] = "rope",
+			["ropes"] = {
+				"return {{\"|cff1eff00|Hitem:10288::::::217:1602534400:80:::::::|h[Sage's Circlet of Stamina]|h|r\",31,4,1,1,6915,3,1569704906,\"Sage's Circlet of Stamina\",nil,1,2,true,26,6915,0,8900,0,false,\"Swiftdruid\",0,\"\",10288,217,0,0,1602534400,},{\"|cff1eff00|Hitem:10289::::::519:992329984:80:::1::::|h[Durable Hat of the Wolf]|h|r\",32,4,1,1,6335,2,1569704906,\"Durable Hat of the Wolf\",nil,1,2,true,27,6035,300,10000,6035,false,\"Bruciebruce\",0,\"\",10289,519,0,0,992329984,},{\"|cff1eff00|Hitem:10289::::::775:307185024:80:::1::::|h[Durable Hat of the Owl]|h|r\",32,4,1,1,8500,4,1569704906,\"Durable Hat of the Owl\",nil,1,2,true,27,8500,0,9500,0,false,\"Ghostdrake\",0,\"\",10289,775,0,0,307185024,},{\"|cff0070dd|Hitem:10504::::::2091:992810752:80:::::::|h[Green Lens of Concentration]|h|r\",49,4,1,1,11655,2,1569704906,\"Green Lens of Concentration\",nil,1,3,false,1,11655,0,24000,0,false,\"\",0,\"\",10504,2091,0,0,992810752,},{\"|cff0070dd|Hitem:10504::::::1822:1169938304:80:::::::|h[Green Lens of Arcane Wrath]|h|r\",49,4,1,1,11655,2,1569704906,\"Green Lens of Arcane Wrath\",nil,1,3,false,1,11655,0,24600,0,false,\"\",0,\"\",10504,1822,0,0,1169938304,},{\"|cff0070dd|Hitem:10504::::::2012:644077568:80:::::::|h[Green Lens of Nature's Wrath]|h|r\",49,4,1,1,11655,3,1569704906,\"Green Lens of Nature's Wrath\",nil,1,3,false,1,11655,0,24500,0,false,\"\",0,\"\",10504,2012,0,0,644077568,},{\"|cff0070dd|Hitem:10504::::::2050:742807552:80:::::::|h[Green Lens of Healing]|h|r\",49,4,1,1,750000,3,1569704906,\"Green Lens of Healing\",nil,1,3,false,1,750000,0,1000000,0,false,\"\",0,\"\",10504,2050,0,0,742807552,},{\"|cff1eff00|Hitem:10506::::::::80:::::::|h[Deepdive Helmet]|h|r\",46,4,1,1,87840,3,1569704906,\"Deepdive Helmet\",nil,1,2,false,1,87840,0,150000,0,false,\"\",0,\"\",10506,0,0,0,0,},{\"|cff1eff00|Hitem:10506::::::::80:::::::|h[Deepdive Helmet]|h|r\",46,4,1,1,87840,3,1569704906,\"Deepdive Helmet\",nil,1,2,false,1,87840,0,150000,0,false,\"\",0,\"\",10506,0,0,0,0,},{\"|cff1eff00|Hitem:10726::::::::80:::::::|h[Gnomish Mind Control Cap]|h|r\",47,4,1,1,208280,3,1569704906,\"Gnomish Mind Control Cap\",nil,1,2,false,1,208280,0,250000,0,false,\"\",0,\"\",10726,0,0,0,0,},{\"|cffffffff|Hitem:7048::::::::80:::::::|h[Azure Silk Hood]|h|r\",29,4,1,1,917,2,1569704906,\"Azure Silk Hood\",nil,1,1,true,24,917,0,1117,0,false,\"\",0,\"\",7048,0,0,0,0,},{\"|cffffffff|Hitem:7048::::::::80:::::::|h[Azure Silk Hood]|h|r\",29,4,1,1,917,2,1569704906,\"Azure Silk Hood\",nil,1,1,true,24,917,0,1117,0,false,\"\",0,\"\",7048,0,0,0,0,},{\"|cffffffff|Hitem:7048::::::::80:::::::|h[Azure Silk Hood]|h|r\",29,4,1,1,917,2,1569704906,\"Azure Silk Hood\",nil,1,1,true,24,917,0,1117,0,false,\"\",0,\"\",7048,0,0,0,0,},{\"|cffffffff|Hitem:7048::::::::80:::::::|h[Azure Silk Hood]|h|r\",29,4,1,1,917,2,1569704906,\"Azure Silk Hood\",nil,1,1,true,24,917,0,1117,0,false,\"\",0,\"\",7048,0,0,0,0,},{\"|cffffffff|Hitem:7048::::::::80:::::::|h[Azure Silk Hood]|h|r\",29,4,1,1,1117,3,1569704906,\"Azure Silk Hood\",nil,1,1,true,24,1117,0,1410,0,false,\"\",0,\"\",7048,0,0,0,0,},{\"|cffffffff|Hitem:7048::::::::80:::::::|h[Azure Silk Hood]|h|r\",29,4,1,1,1117,3,1569704906,\"Azure Silk Hood\",nil,1,1,true,24,1117,0,1410,0,false,\"\",0,\"\",7048,0,0,0,0,},{\"|cffffffff|Hitem:7048::::::::80:::::::|h[Azure Silk Hood]|h|r\",29,4,1,1,1117,3,1569704906,\"Azure Silk Hood\",nil,1,1,true,24,1117,0,1410,0,false,\"\",0,\"\",7048,0,0,0,0,},{\"|cffffffff|Hitem:7048::::::::80:::::::|h[Azure Silk Hood]|h|r\",29,4,1,1,1117,3,1569704906,\"Azure Silk Hood\",nil,1,1,true,24,1117,0,1410,0,false,\"\",0,\"\",7048,0,0,0,0,},{\"|cffffffff|Hitem:7048::::::::80:::::::|h[Azure Silk Hood]|h|r\",29,4,1,1,1117,3,1569704906,\"Azure Silk Hood\",nil,1,1,true,24,1117,0,1410,0,false,\"\",0,\"\",7048,0,0,0,0,},{\"|cffffffff|Hitem:7048::::::::80:::::::|h[Azure Silk Hood]|h|r\",29,4,1,1,1117,3,1569704906,\"Azure Silk Hood\",nil,1,1,true,24,1117,0,1410,0,false,\"\",0,\"\",7048,0,0,0,0,},{\"|cffffffff|Hitem:7048::::::::80:::::::|h[Azure Silk Hood]|h|r\",29,4,1,1,1117,3,1569704906,\"Azure Silk Hood\",nil,1,1,true,24,1117,0,1410,0,false,\"\",0,\"\",7048,0,0,0,0,},{\"|cffffffff|Hitem:7048::::::::80:::::::|h[Azure Silk Hood]|h|r\",29,4,1,1,1117,3,1569704906,\"Azure Silk Hood\",nil,1,1,true,24,1117,0,1410,0,false,\"\",0,\"\",7048,0,0,0,0,},{\"|cffffffff|Hitem:7048::::::::80:::::::|h[Azure Silk Hood]|h|r\",29,4,1,1,1117,3,1569704906,\"Azure Silk Hood\",nil,1,1,true,24,1117,0,1410,0,false,\"\",0,\"\",7048,0,0,0,0,},{\"|cffffffff|Hitem:7048::::::::80:::::::|h[Azure Silk Hood]|h|r\",29,4,1,1,1117,3,1569704906,\"Azure Silk Hood\",nil,1,1,true,24,1117,0,1410,0,false,\"\",0,\"\",7048,0,0,0,0,},{\"|cffffffff|Hitem:7048::::::::80:::::::|h[Azure Silk Hood]|h|r\",29,4,1,1,1117,3,1569704906,\"Azure Silk Hood\",nil,1,1,true,24,1117,0,1410,0,false,\"\",0,\"\",7048,0,0,0,0,},{\"|cffffffff|Hitem:7048::::::::80:::::::|h[Azure Silk Hood]|h|r\",29,4,1,1,1117,3,1569704906,\"Azure Silk Hood\",nil,1,1,true,24,1117,0,1410,0,false,\"\",0,\"\",7048,0,0,0,0,},{\"|cffffffff|Hitem:7048::::::::80:::::::|h[Azure Silk Hood]|h|r\",29,4,1,1,1117,3,1569704906,\"Azure Silk Hood\",nil,1,1,true,24,1117,0,1410,0,false,\"\",0,\"\",7048,0,0,0,0,},{\"|cffffffff|Hitem:7048::::::::80:::::::|h[Azure Silk Hood]|h|r\",29,4,1,1,1117,3,1569704906,\"Azure Silk Hood\",nil,1,1,true,24,1117,0,1410,0,false,\"\",0,\"\",7048,0,0,0,0,},{\"|cffffffff|Hitem:7048::::::::80:::::::|h[Azure Silk Hood]|h|r\",29,4,1,1,1117,3,1569704906,\"Azure Silk Hood\",nil,1,1,true,24,1117,0,1410,0,false,\"\",0,\"\",7048,0,0,0,0,},{\"|cffffffff|Hitem:7048::::::::80:::::::|h[Azure Silk Hood]|h|r\",29,4,1,1,1117,3,1569704906,\"Azure Silk Hood\",nil,1,1,true,24,1117,0,1410,0,false,\"\",0,\"\",7048,0,0,0,0,},{\"|cffffffff|Hitem:7048::::::::80:::::::|h[Azure Silk Hood]|h|r\",29,4,1,1,1117,3,1569704906,\"Azure Silk Hood\",nil,1,1,true,24,1117,0,1410,0,false,\"\",0,\"\",7048,0,0,0,0,},{\"|cffffffff|Hitem:7048::::::::80:::::::|h[Azure Silk Hood]|h|r\",29,4,1,1,1619,4,1569704906,\"Azure Silk Hood\",nil,1,1,true,24,1619,0,1799,0,false,\"\",0,\"\",7048,0,0,0,0,},{\"|cffffffff|Hitem:7048::::::::80:::::::|h[Azure Silk Hood]|h|r\",29,4,1,1,1619,4,1569704906,\"Azure Silk Hood\",nil,1,1,true,24,1619,0,1799,0,false,\"\",0,\"\",7048,0,0,0,0,},{\"|cffffffff|Hitem:7048::::::::80:::::::|h[Azure Silk Hood]|h|r\",29,4,1,1,1619,4,1569704906,\"Azure Silk Hood\",nil,1,1,true,24,1619,0,1799,0,false,\"\",0,\"\",7048,0,0,0,0,},{\"|cffffffff|Hitem:7048::::::::80:::::::|h[Azure Silk Hood]|h|r\",29,4,1,1,1619,4,1569704906,\"Azure Silk Hood\",nil,1,1,true,24,1619,0,1799,0,false,\"\",0,\"\",7048,0,0,0,0,},{\"|cff1eff00|Hitem:10288::::::1810:965748992:80:::::::|h[Sage's Circlet of Arcane Wrath]|h|r\",31,4,1,1,2215,1,1569704906,\"Sage's Circlet of Arcane Wrath\",nil,1,2,true,26,2115,100,5500,2115,false,\"\",0,\"\",10288,1810,0,0,965748992,},{\"|cff1eff00|Hitem:10288::::::1030:1947095808:80:::1::::|h[Sage's Circlet of the Whale]|h|r\",31,4,1,1,9402,4,1569704906,\"Sage's Circlet of the Whale\",nil,1,2,true,26,9402,0,10447,0,false,\"\",0,\"\",10288,1030,0,0,1947095808,},{\"|cff0070dd|Hitem:2721::::::::80:::::::|h[Holy Shroud]|h|r\",32,4,1,1,28152,3,1569704906,\"Holy Shroud\",nil,1,3,true,27,28152,0,43875,0,false,\"\",0,\"\",2721,0,0,0,0,},{\"|cff0070dd|Hitem:2721::::::::80:::::::|h[Holy Shroud]|h|r\",32,4,1,1,28873,2,1569704906,\"Holy Shroud\",nil,1,3,true,27,28873,0,45000,0,false,\"\",0,\"\",2721,0,0,0,0,},{\"|cff0070dd|Hitem:2721::::::::80:::::::|h[Holy Shroud]|h|r\",32,4,1,1,39092,4,1569704906,\"Holy Shroud\",nil,1,3,true,27,39092,0,43436,0,false,\"\",0,\"\",2721,0,0,0,0,},{\"|cff1eff00|Hitem:10289::::::1028:662602624:80:::::::|h[Durable Hat of the Whale]|h|r\",32,4,1,1,3737,4,1569704906,\"Durable Hat of the Whale\",nil,1,2,true,27,3737,0,4671,0,false,\"\",0,\"\",10289,1028,0,0,662602624,},{\"|cffffffff|Hitem:7050::::::::80:::::::|h[Silk Headband]|h|r\",32,4,1,1,1343,1,1569704906,\"Silk Headband\",nil,1,1,true,27,1343,0,1414,0,false,\"\",0,\"\",7050,0,0,0,0,},{\"|cffffffff|Hitem:7050::::::::80:::::::|h[Silk Headband]|h|r\",32,4,1,1,1343,1,1569704906,\"Silk Headband\",nil,1,1,true,27,1343,0,1414,0,false,\"\",0,\"\",7050,0,0,0,0,},{\"|cffffffff|Hitem:7050::::::::80:::::::|h[Silk Headband]|h|r\",32,4,1,1,1343,1,1569704906,\"Silk Headband\",nil,1,1,true,27,1343,0,1414,0,false,\"\",0,\"\",7050,0,0,0,0,},{\"|cff1eff00|Hitem:4322::::::::80:::::::|h[Enchanter's Cowl]|h|r\",33,4,1,1,11269,2,1569704906,\"Enchanter's Cowl\",nil,1,2,true,28,11269,0,11499,0,false,\"\",0,\"\",4322,0,0,0,0,},{\"|cff1eff00|Hitem:4322::::::::80:::::::|h[Enchanter's Cowl]|h|r\",33,4,1,1,11269,2,1569704906,\"Enchanter's Cowl\",nil,1,2,true,28,11269,0,11499,0,false,\"\",0,\"\",4322,0,0,0,0,},{\"|cff1eff00|Hitem:4322::::::::80:::::::|h[Enchanter's Cowl]|h|r\",33,4,1,1,11269,2,1569704906,\"Enchanter's Cowl\",nil,1,2,true,28,11269,0,11499,0,false,\"\",0,\"\",4322,0,0,0,0,},{\"|cff1eff00|Hitem:4322::::::::80:::::::|h[Enchanter's Cowl]|h|r\",33,4,1,1,11500,4,1569704906,\"Enchanter's Cowl\",nil,1,2,true,28,11500,0,11500,0,false,\"\",0,\"\",4322,0,0,0,0,},{\"|cff1eff00|Hitem:4322::::::::80:::::::|h[Enchanter's Cowl]|h|r\",33,4,1,1,11500,4,1569704906,\"Enchanter's Cowl\",nil,1,2,true,28,11500,0,11500,0,false,\"\",0,\"\",4322,0,0,0,0,},{\"|cff1eff00|Hitem:4322::::::::80:::::::|h[Enchanter's Cowl]|h|r\",33,4,1,1,11500,4,1569704906,\"Enchanter's Cowl\",nil,1,2,true,28,11500,0,11500,0,false,\"\",0,\"\",4322,0,0,0,0,},{\"|cff1eff00|Hitem:7432::::::781:1186794112:80:::11::::|h[Twilight Cowl of the Owl]|h|r\",38,4,1,1,10000,3,1569704926,\"Twilight Cowl of the Owl\",nil,1,2,false,33,10000,0,11000,0,false,\"Superpants\",0,\"\",7432,781,0,0,1186794112,},{\"|cff1eff00|Hitem:5608::::::::80:::::::|h[Living Cowl]|h|r\",40,4,1,1,5000,4,1569704926,\"Living Cowl\",nil,1,2,false,35,5000,0,10000,0,false,\"Bruciebruce\",0,\"\",5608,0,0,0,0,},{\"|cff1eff00|Hitem:9878::::::869:1958243200:80:::1::::|h[Sorcerer Hat of the Eagle]|h|r\",41,4,1,1,23750,3,1569704926,\"Sorcerer Hat of the Eagle\",nil,1,2,false,36,23750,0,25000,0,false,\"Icechrist\",0,\"\",9878,869,0,0,1958243200,},{\"|cff1eff00|Hitem:10008::::::::80:::::::|h[White Bandit Mask]|h|r\",43,4,1,1,10114,3,1569704926,\"White Bandit Mask\",nil,1,2,false,38,10114,0,11899,0,false,\"Moltrel\",0,\"\",10008,0,0,0,0,},{\"|cff1eff00|Hitem:10008::::::::80:::::::|h[White Bandit Mask]|h|r\",43,4,1,1,10114,3,1569704926,\"White Bandit Mask\",nil,1,2,false,38,10114,0,11899,0,false,\"Moltrel\",0,\"\",10008,0,0,0,0,},{\"|cff1eff00|Hitem:10008::::::::80:::::::|h[White Bandit Mask]|h|r\",43,4,1,1,10114,3,1569704926,\"White Bandit Mask\",nil,1,2,false,38,10114,0,11899,0,false,\"Moltrel\",0,\"\",10008,0,0,0,0,},{\"|cff1eff00|Hitem:10008::::::::80:::::::|h[White Bandit Mask]|h|r\",43,4,1,1,10114,3,1569704926,\"White Bandit Mask\",nil,1,2,false,38,10114,0,11899,0,false,\"Moltrel\",0,\"\",10008,0,0,0,0,},{\"|cff1eff00|Hitem:10008::::::::80:::::::|h[White Bandit Mask]|h|r\",43,4,1,1,10114,3,1569704926,\"White Bandit Mask\",nil,1,2,false,38,10114,0,11899,0,false,\"Moltrel\",0,\"\",10008,0,0,0,0,},{\"|cff1eff00|Hitem:10008::::::::80:::::::|h[White Bandit Mask]|h|r\",43,4,1,1,10114,3,1569704926,\"White Bandit Mask\",nil,1,2,false,38,10114,0,11899,0,false,\"Moltrel\",0,\"\",10008,0,0,0,0,},{\"|cff1eff00|Hitem:10008::::::::80:::::::|h[White Bandit Mask]|h|r\",43,4,1,1,10114,3,1569704926,\"White Bandit Mask\",nil,1,2,false,38,10114,0,11899,0,false,\"Moltrel\",0,\"\",10008,0,0,0,0,},{\"|cff1eff00|Hitem:14252::::::532:63218176:80:::1::::|h[Lunar Coronet of the Wolf]|h|r\",45,4,1,1,8623,4,1569704926,\"Lunar Coronet of the Wolf\",nil,1,2,false,40,8623,0,9582,0,false,\"Lurkerjay\",0,\"\",14252,532,0,0,63218176,},{\"|cff1eff00|Hitem:4322::::::::80:::::::|h[Enchanter's Cowl]|h|r\",33,4,1,1,11715,4,1569704926,\"Enchanter's Cowl\",nil,1,2,true,28,11715,0,11750,0,false,\"\",0,\"\",4322,0,0,0,0,},{\"|cff1eff00|Hitem:4322::::::::80:::::::|h[Enchanter's Cowl]|h|r\",33,4,1,1,11797,3,1569704926,\"Enchanter's Cowl\",nil,1,2,true,28,11797,0,11797,0,false,\"\",0,\"\",4322,0,0,0,0,},{\"|cff1eff00|Hitem:4322::::::::80:::::::|h[Enchanter's Cowl]|h|r\",33,4,1,1,11797,3,1569704926,\"Enchanter's Cowl\",nil,1,2,true,28,11797,0,11797,0,false,\"\",0,\"\",4322,0,0,0,0,},{\"|cff1eff00|Hitem:4322::::::::80:::::::|h[Enchanter's Cowl]|h|r\",33,4,1,1,11797,3,1569704926,\"Enchanter's Cowl\",nil,1,2,true,28,11797,0,11797,0,false,\"\",0,\"\",4322,0,0,0,0,},{\"|cff1eff00|Hitem:4322::::::::80:::::::|h[Enchanter's Cowl]|h|r\",33,4,1,1,11797,3,1569704926,\"Enchanter's Cowl\",nil,1,2,true,28,11797,0,11797,0,false,\"\",0,\"\",4322,0,0,0,0,},{\"|cff1eff00|Hitem:4322::::::::80:::::::|h[Enchanter's Cowl]|h|r\",33,4,1,1,11797,3,1569704926,\"Enchanter's Cowl\",nil,1,2,true,28,11797,0,11797,0,false,\"\",0,\"\",4322,0,0,0,0,},{\"|cff1eff00|Hitem:14401::::::::80:::::::|h[Resilient Cap]|h|r\",33,4,1,1,29636,3,1569704926,\"Resilient Cap\",nil,1,2,true,28,29636,0,29636,0,false,\"\",0,\"\",14401,0,0,0,0,},{\"|cff9d9d9d|Hitem:8746::::::::80:::::::|h[Interlaced Cowl]|h|r\",33,4,1,1,5000,4,1569704926,\"Interlaced Cowl\",nil,1,0,true,28,5000,0,5000,0,false,\"\",4,\"\",8746,0,0,0,0,},{\"|cff9d9d9d|Hitem:8746::::::::80:::1::::|h[Interlaced Cowl]|h|r\",33,4,1,1,10000,4,1569704926,\"Interlaced Cowl\",nil,1,0,true,28,10000,0,50000,0,false,\"\",4,\"\",8746,0,0,0,0,},{\"|cff1eff00|Hitem:7357::::::1963:504356352:80:::1::::|h[Elder's Hat of Frozen Wrath]|h|r\",34,4,1,1,8406,3,1569704926,\"Elder's Hat of Frozen Wrath\",nil,1,2,false,29,8406,0,10507,0,false,\"\",0,\"\",7357,1963,0,0,504356352,},{\"|cff1eff00|Hitem:4323::::::::80:::::::|h[Shadow Hood]|h|r\",34,4,1,1,10000,3,1569704926,\"Shadow Hood\",nil,1,2,false,29,10000,0,12000,0,false,\"\",0,\"\",4323,0,0,0,0,},{\"|cff1eff00|Hitem:7357::::::1033:1883359232:80:::1::::|h[Elder's Hat of the Whale]|h|r\",34,4,1,1,10965,4,1569704926,\"Elder's Hat of the Whale\",nil,1,2,false,29,10965,0,12183,0,false,\"\",0,\"\",7357,1033,0,0,1883359232,},{\"|cff1eff00|Hitem:7357::::::778:920191360:80:::::::|h[Elder's Hat of the Owl]|h|r\",34,4,1,1,11048,3,1569704926,\"Elder's Hat of the Owl\",nil,1,2,false,29,11048,0,12276,0,false,\"\",0,\"\",7357,778,0,0,920191360,},{\"|cff1eff00|Hitem:14200::::::1964:979695360:80:::::::|h[Thistlefur Cap of Frozen Wrath]|h|r\",35,4,1,1,6548,4,1569704926,\"Thistlefur Cap of Frozen Wrath\",nil,1,2,false,30,6548,0,7084,0,false,\"\",0,\"\",14200,1964,0,0,979695360,},{\"|cff1eff00|Hitem:4039::::::::80:::::::|h[Nightsky Cowl]|h|r\",35,4,1,1,11201,4,1569704926,\"Nightsky Cowl\",nil,1,2,false,30,11201,0,14001,0,false,\"\",0,\"\",4039,0,0,0,0,},{\"|cff1eff00|Hitem:9849::::::2039:1876742656:80:::1::::|h[Conjurer's Hood of Healing]|h|r\",36,4,1,1,3747,3,1569704926,\"Conjurer's Hood of Healing\",nil,1,2,false,31,3577,170,7500,3577,false,\"\",0,\"\",9849,2039,0,0,1876742656,},{\"|cff1eff00|Hitem:9849::::::1887:907731712:80:::::::|h[Conjurer's Hood of Fiery Wrath]|h|r\",36,4,1,1,7804,3,1569704926,\"Conjurer's Hood of Fiery Wrath\",nil,1,2,false,31,7804,0,9754,0,false,\"\",0,\"\",9849,1887,0,0,907731712,},{\"|cff1eff00|Hitem:9849::::::523:1594016512:80:::1::::|h[Conjurer's Hood of the Wolf]|h|r\",36,4,1,1,9957,3,1569704926,\"Conjurer's Hood of the Wolf\",nil,1,2,false,31,9957,0,11063,0,false,\"\",0,\"\",9849,523,0,0,1594016512,},{\"|cff1eff00|Hitem:9849::::::778:1789843968:80:::::::|h[Conjurer's Hood of the Owl]|h|r\",36,4,1,1,9969,3,1569704926,\"Conjurer's Hood of the Owl\",nil,1,2,false,31,9969,0,12461,0,false,\"\",0,\"\",9849,778,0,0,1789843968,},{\"|cff1eff00|Hitem:14208::::::1033:586034432:80:::1::::|h[Vital Headband of the Whale]|h|r\",36,4,1,1,12254,3,1569704926,\"Vital Headband of the Whale\",nil,1,2,false,31,12254,0,13616,0,false,\"\",0,\"\",14208,1033,0,0,586034432,},{\"|cff1eff00|Hitem:9849::::::1811:1804595328:80:::1::::|h[Conjurer's Hood of Arcane Wrath]|h|r\",36,4,1,1,15846,2,1569704926,\"Conjurer's Hood of Arcane Wrath\",nil,1,2,false,31,15846,0,15846,0,false,\"\",0,\"\",9849,1811,0,0,1804595328,},{\"|cff1eff00|Hitem:7432::::::1036:803412224:80:::::::|h[Twilight Cowl of the Whale]|h|r\",38,4,1,1,4075,4,1569704926,\"Twilight Cowl of the Whale\",nil,1,2,false,33,4075,0,6500,0,false,\"\",0,\"\",7432,1036,0,0,803412224,},{\"|cff1eff00|Hitem:7432::::::781:47989760:80:::1::::|h[Twilight Cowl of the Owl]|h|r\",38,4,1,1,13537,3,1569704926,\"Twilight Cowl of the Owl\",nil,1,2,false,33,13537,0,15041,0,false,\"\",0,\"\",7432,781,0,0,47989760,},{\"|cff1eff00|Hitem:4041::::::::80:::::::|h[Aurora Cowl]|h|r\",39,4,1,1,4999,2,1569704926,\"Aurora Cowl\",nil,1,2,false,34,4999,0,5499,0,false,\"\",0,\"\",4041,0,0,0,0,},{\"|cff1eff00|Hitem:5608::::::::80:::::::|h[Living Cowl]|h|r\",40,4,1,1,5225,3,1569704926,\"Living Cowl\",nil,1,2,false,35,5225,0,5500,0,false,\"\",0,\"\",5608,0,0,0,0,},{\"|cff1eff00|Hitem:9878::::::528:832272384:80:::1::::|h[Sorcerer Hat of the Wolf]|h|r\",41,4,1,1,5999,1,1569704926,\"Sorcerer Hat of the Wolf\",nil,1,2,false,36,5999,0,9999,0,false,\"\",0,\"\",9878,528,0,0,832272384,},{\"|cff1eff00|Hitem:9878::::::869:757850624:80:::::::|h[Sorcerer Hat of the Eagle]|h|r\",41,4,1,1,20000,3,1569704926,\"Sorcerer Hat of the Eagle\",nil,1,2,false,36,20000,0,20000,0,false,\"\",0,\"\",9878,869,0,0,757850624,},{\"|cff1eff00|Hitem:9878::::::784:1181201408:80:::::::|h[Sorcerer Hat of the Owl]|h|r\",41,4,1,1,45136,3,1569704926,\"Sorcerer Hat of the Owl\",nil,1,2,false,36,45136,0,49599,0,false,\"\",0,\"\",9878,784,0,0,1181201408,},{\"|cff1eff00|Hitem:7470::::::783:1768812928:80:::::::|h[Regal Wizard Hat of the Owl]|h|r\",42,4,1,1,13313,3,1569704926,\"Regal Wizard Hat of the Owl\",nil,1,2,false,37,13313,0,14792,0,false,\"\",0,\"\",7470,783,0,0,1768812928,},{\"|cff1eff00|Hitem:14421::::::::80:::1::::|h[Silksand Circlet]|h|r\",42,4,1,1,15000,4,1569704926,\"Silksand Circlet\",nil,1,2,false,37,15000,0,20000,0,false,\"\",0,\"\",14421,0,0,0,0,},{\"|cff1eff00|Hitem:14421::::::::80:::::::|h[Silksand Circlet]|h|r\",42,4,1,1,18810,3,1569704926,\"Silksand Circlet\",nil,1,2,false,37,18810,0,19800,0,false,\"\",0,\"\",14421,0,0,0,0,},{\"|cff1eff00|Hitem:14421::::::::80:::::::|h[Silksand Circlet]|h|r\",42,4,1,1,19999,3,1569704926,\"Silksand Circlet\",nil,1,2,false,37,19999,0,19999,0,false,\"\",0,\"\",14421,0,0,0,0,},{\"|cff1eff00|Hitem:14421::::::::80:::::::|h[Silksand Circlet]|h|r\",42,4,1,1,36157,3,1569704926,\"Silksand Circlet\",nil,1,2,false,37,36157,0,36169,0,false,\"\",0,\"\",14421,0,0,0,0,},{\"|cff0070dd|Hitem:9431::::::::80:::1::::|h[Papal Fez]|h|r\",43,4,1,1,199999,3,1569704926,\"Papal Fez\",nil,1,3,false,38,199999,0,199999,0,false,\"\",0,\"\",9431,0,0,0,0,},{\"|cff1eff00|Hitem:10008::::::::80:::::::|h[White Bandit Mask]|h|r\",43,4,1,1,10602,3,1569704926,\"White Bandit Mask\",nil,1,2,false,38,10602,0,11780,0,false,\"\",0,\"\",10008,0,0,0,0,},{\"|cff1eff00|Hitem:14246::::::787:1405686528:80:::1::::|h[Darkmist Wizard Hat of the Owl]|h|r\",44,4,1,1,21576,3,1569704926,\"Darkmist Wizard Hat of the Owl\",nil,1,2,false,39,21576,0,22000,0,false,\"\",0,\"\",14246,787,0,0,1405686528,},{\"|cff1eff00|Hitem:14246::::::787:89385856:80:::1::::|h[Darkmist Wizard Hat of the Owl]|h|r\",44,4,1,1,23165,4,1569704926,\"Darkmist Wizard Hat of the Owl\",nil,1,2,false,39,23165,0,25739,0,false,\"\",0,\"\",14246,787,0,0,89385856,},{\"|cff1eff00|Hitem:14246::::::787:1607765248:80:::1::::|h[Darkmist Wizard Hat of the Owl]|h|r\",44,4,1,1,24699,3,1569704926,\"Darkmist Wizard Hat of the Owl\",nil,1,2,false,39,24699,0,25999,0,false,\"\",0,\"\",14246,787,0,0,1607765248,},{\"|cff1eff00|Hitem:14246::::::386:577408384:80:::::::|h[Darkmist Wizard Hat of Intellect]|h|r\",44,4,1,1,53412,3,1569704926,\"Darkmist Wizard Hat of Intellect\",nil,1,2,false,39,53412,0,53412,0,false,\"\",0,\"\",14246,386,0,0,577408384,},}", -- [1]
+			},
+		},
+	},
+}

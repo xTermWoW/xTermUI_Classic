@@ -1,0 +1,27 @@
+BINDINGMODE 0
+bind Q ACTIONBUTTON6
+bind E ACTIONBUTTON7
+bind NUMLOCK NONE
+bind INSERT TOGGLEAUTORUN
+bind NUMPADDIVIDE NONE
+bind R ACTIONBUTTON8
+bind SHIFT-R CLICK DominosActionButton12:LeftButton
+bind 6 NONE
+bind 7 NONE
+bind 8 NONE
+bind 9 NONE
+bind 0 NONE
+bind SHIFT-1 CLICK DominosActionButton7:LeftButton
+bind SHIFT-2 CLICK DominosActionButton8:LeftButton
+bind SHIFT-3 CLICK DominosActionButton9:LeftButton
+bind SHIFT-4 CLICK DominosActionButton10:LeftButton
+bind SHIFT-5 CLICK DominosActionButton11:LeftButton
+bind F1 CLICK DominosActionButton2:LeftButton
+bind F2 CLICK DominosActionButton3:LeftButton
+bind F3 CLICK DominosActionButton4:LeftButton
+bind F4 CLICK DominosActionButton5:LeftButton
+bind F5 CLICK DominosActionButton6:LeftButton
+bind V ACTIONBUTTON10
+bind C ACTIONBUTTON9
+bind NUMPADPLUS TOGGLERUN
+bind ' CLICK DominosActionButton1:LeftButton

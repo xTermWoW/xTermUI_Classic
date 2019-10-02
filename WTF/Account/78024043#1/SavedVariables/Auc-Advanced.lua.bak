@@ -1,0 +1,65 @@
+
+AucAdvancedConfig = {
+	["users.Kirtonos.Aelkam"] = "Default",
+	["profile.Default"] = {
+		["core"] = {
+			["matcher"] = {
+				["matcherlist"] = {
+					"BeanCount", -- [1]
+					"Undercut", -- [2]
+				},
+			},
+		},
+		["util"] = {
+			["appraiser"] = {
+				["columnsortcurDir"] = -1,
+				["columnsortcurSort"] = 6,
+			},
+			["automagic"] = {
+				["ammailguix"] = 160,
+				["SavedMailButtons"] = {
+				},
+			},
+			["ahwindowcontrol"] = {
+				["ahframeanchors"] = "LEFT:LEFT:0.0:99.2",
+			},
+		},
+		["stat"] = {
+			["sales"] = {
+				["ignoredsigs"] = {
+				},
+				["upgraded32"] = true,
+			},
+		},
+	},
+	["version"] = 1,
+}
+AucAdvancedData = {
+	["UtilSearchUiData"] = {
+		["Global"] = {
+			["configator.left"] = 561.357971191406,
+			["configator.top"] = 676.666748046875,
+		},
+		["Current"] = {
+			["columnsortcurDir"] = -1,
+			["columnsortcurSort"] = 11,
+			["snatch.itemsList"] = {
+			},
+		},
+		["Version"] = 1,
+		["SavedSearches"] = {
+		},
+	},
+	["Stats"] = {
+	},
+}
+AucAdvancedServers = {
+	["Version"] = 1,
+	["Timestamp"] = 1568084057,
+	["KnownServerKeys"] = {
+		["Kirtonos"] = 1569898238,
+	},
+	["KnownRealms"] = {
+		["Kirtonos"] = "Kirtonos",
+	},
+}

@@ -1,0 +1,15 @@
+Version: 1
+Frame: ZygorGuidesViewerMapIcon
+FrameLevel: 3
+Anchor: TOPRIGHT
+X: -131
+Y: -128
+W: 24
+H: 24
+Frame: ZygorGuidesViewerFrameMaster
+FrameLevel: 1
+Anchor: LEFT
+X: 283
+Y: -39
+W: 40
+H: 40

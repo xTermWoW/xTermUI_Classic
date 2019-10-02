@@ -1,0 +1,31 @@
+VER 3 0000000000000002 "20+ Drain" "136163"
+/cast Drain Soul(Rank 2)
+/petfollow
+/run PickupContainerItem(4,GetContainerNumSlots(4)) DeleteCursorItem()
+END
+VER 3 0000000000000006 "Agony pet" "136139"
+/cast Curse of Agony(Rank 2) 
+/PetAttack
+END
+VER 3 0000000000000005 "Corruption pet" "136182"
+/cast Corruption(Rank 3) 
+/PetAttack
+END
+VER 3 0000000000000004 "Immolate Pet" "135817"
+/cast Immolate(Rank 3) 
+/PetAttack
+END
+VER 3 0000000000000003 "Shadow Bolt Pet" "136197"
+/cast Shadow Bolt(Rank 4) 
+/PetAttack
+END
+VER 3 0000000000000001 "Simple Drain" "136163"
+/cast Drain Soul(Rank 1)
+/petfollow
+END
+VER 3 0000000000000008 "Wand attack" "132162"
+/cast Shoot
+/PetAttack
+END
+VER 3 0000000000000007 "ZygorAction1" "134400"
+END
